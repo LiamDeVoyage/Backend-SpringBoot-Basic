@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBatch-basic/SpringBatch-basic.iml" filepath="$PROJECT_DIR$/SpringBatch-basic/SpringBatch-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-IoC-DI/SpringBoot-IoC-DI.iml" filepath="$PROJECT_DIR$/SpringBoot-IoC-DI/SpringBoot-IoC-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-basic.iml" filepath="$PROJECT_DIR$/SpringBoot-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringRedis-basic/SpringRedis-basic.iml" filepath="$PROJECT_DIR$/SpringRedis-basic/SpringRedis-basic.iml" />
+    </modules>
+  </component>
+</project>
